@@ -6,3 +6,4 @@ url: https://rentry.co/government_sites
 url: https://rentry.co/network_optimisation
 url: https://rentry.co/perplexity_blueprint
 url: https://rentry.co/xubdoep5
+url: https://pastebin.com/1H1QRWyq
